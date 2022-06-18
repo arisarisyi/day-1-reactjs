@@ -1,0 +1,46 @@
+.myBG {
+    height: 100vh;
+    background: url(../assets/images/bg/bg.jpeg);
+    background-size: cover;
+}
+
+.intro{
+    height: 30%;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 3px;
+}
+
+.johnmayer{
+    height: auto;
+    background: url(../assets/images/bg/jon.jpg);
+    background-size: cover;
+}
+
+.dreamtheater{
+    height: auto;
+    background: url(../assets/images/bg/dt.jpg);
+    background-size: cover;
+}
+
+.movieWrapper{
+
+}
+
+.movieImage{
+    height: auto;
+    margin: 5px;
+    padding: 5px;
+}
+
+.images{
+    height: 350px;
+}
